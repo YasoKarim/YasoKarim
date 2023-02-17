@@ -1,8 +1,11 @@
 <!---- ---->
 Hi there, I am [Yasmine Karim](https://github.com/YasoKarim)
-Hi There ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Hi There ![visitors](https://visitor-badge..me/badge?page_id=${your.YasoKarim}.${your.YasoKarim.id})
 ### Status of Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasoKarim&theme=dark&show_icons=true)
+
+<!---
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasoKarim&theme=dark&show_icons=true)
+--->
 ### Contact
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  &ensp;   yasmineelshafei10@gmail.com 
 
