@@ -1,6 +1,6 @@
 <!---- ---->
 Hi there, I am [Yasmine Karim](https://github.com/YasoKarim)
-Hi There ![visitors](https://visitor-badge..me/badge?page_id=${your.YasoKarim}.${your.YasoKarim.id})
+Hi There ![visitors](https://visitor-badge..me/badge?page_id=${YasoKarim}.${YasoKarim/YasoKarim})
 ### Status of Github
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasoKarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 ### Contact
