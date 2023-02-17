@@ -1,6 +1,6 @@
 <!---- ---->
 Hi there, I am [Yasmine Karim](https://github.com/YasoKarim)
-Hi there ![Visitor](https://komarev.com/ghpvc/?username=YasoKarim)
+Hi there ![Visitor](https://komarev.com/ghpvc/?username=YasoKarim&color=red)
 ### Status of Github
 [Yasmines's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasoKarim&theme=dark)
 ### Contact
