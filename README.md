@@ -4,7 +4,7 @@ Hi there ![Visitor](https://komarev.com/ghpvc/?username=YasoKarim&color=red)
 ### Status of Github
 ![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasoKarim&show_icons=true&theme=dark&custom_title&langs_count)
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasoKarim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasoKarim&theme=dark)
 ### Contact
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  &ensp; : yasmineelshafei10@gmail.com 
 
